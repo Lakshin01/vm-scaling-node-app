@@ -1,0 +1,8 @@
+{
+  "name": "vm-scaling-node-app",
+  "version": "1.0.0",
+  "author": "lakshin",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
